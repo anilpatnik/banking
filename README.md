@@ -1,2 +1,3 @@
-# banking
-Created with CodeSandbox
+## Tiny Banking App (courtesy Laith Harb)
+
+!(images/screenshot.jpg)
