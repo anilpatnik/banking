@@ -1,3 +1,3 @@
 ## Tiny Banking App (courtesy Laith Harb)
 
-!(banking/images/screenshot.jpg)
+![The San Juan Mountains are beautiful!](/images/screenshot.jpg)
