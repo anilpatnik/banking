@@ -1,3 +1,3 @@
-## Tiny Banking App (courtesy Laith Harb)
+## Tiny Banking App
 
-![The San Juan Mountains are beautiful!](/images/screenshot1.jpg)
+### Deposit | Withdraw | Bankrupt
